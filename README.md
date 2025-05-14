@@ -1,2 +1,3 @@
 # base-homepage-for-AI
-On Docker, base homepage for AI service 
+
+Base homepage for AI service
